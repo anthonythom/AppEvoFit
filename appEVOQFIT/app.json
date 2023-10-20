@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "AppAfroGlow",
-    "slug": "AppAfroGlow",
+    "name": "afroglow",
+    "slug": "afroglow",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
